@@ -1,2 +1,2 @@
 # Snake-game
-this is my first Game. By using C++.
+This is my first Game. By using C++.
